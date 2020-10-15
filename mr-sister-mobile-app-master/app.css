@@ -1,0 +1,27 @@
+.primary {
+  color: #ece79a;
+}
+.form {
+  color: #dfdfdf;
+}
+.border-color {
+  color: #464646;
+}
+
+.border-color {
+  color: #c9c9c9;
+}
+
+.completed{
+  color:#c5ce48;
+}
+.pending{
+  color:#f1bb25;
+}
+.issues{
+  color:#f35454;
+}
+.test{
+color:#46f31b;
+}
+
