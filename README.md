@@ -1,6 +1,4 @@
-##
-MrSister-Mobile-App-Project
-##
+## MrSister-Mobile-App-Project ##
 
 First pull the project from git hub to your code manager
 ```
